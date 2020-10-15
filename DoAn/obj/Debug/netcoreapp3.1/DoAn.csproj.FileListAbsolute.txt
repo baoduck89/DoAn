@@ -1,0 +1,13 @@
+D:\source\repos\DoAn\DoAn\bin\Debug\netcoreapp3.1\DoAn.exe
+D:\source\repos\DoAn\DoAn\bin\Debug\netcoreapp3.1\DoAn.deps.json
+D:\source\repos\DoAn\DoAn\bin\Debug\netcoreapp3.1\DoAn.runtimeconfig.json
+D:\source\repos\DoAn\DoAn\bin\Debug\netcoreapp3.1\DoAn.runtimeconfig.dev.json
+D:\source\repos\DoAn\DoAn\bin\Debug\netcoreapp3.1\DoAn.dll
+D:\source\repos\DoAn\DoAn\bin\Debug\netcoreapp3.1\DoAn.pdb
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.csprojAssemblyReference.cache
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.AssemblyInfoInputs.cache
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.AssemblyInfo.cs
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.csproj.CoreCompileInputs.cache
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.dll
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.pdb
+D:\source\repos\DoAn\DoAn\obj\Debug\netcoreapp3.1\DoAn.genruntimeconfig.cache
