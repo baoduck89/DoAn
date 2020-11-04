@@ -4,12 +4,11 @@ using System.Text;
 
 namespace DoAn.NewFolder4
 {
-    public class dangnhap
-    {
-
-        private string tk, mk;
-        public void Hien()
+     class dangnhap
+    {               
+        public void dangnhap()
         {
+            string tk, mk;
             int dem = 0;
             while (dem < 3)
             {
